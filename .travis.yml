@@ -12,4 +12,4 @@ before_script:
   - npm install -g @angular/cli
 script:
 - ng build --prod --base-href https://PiotrPopowski.github.io/test-automation-workshops
-- ng test --prod --base-href https://PiotrPopowski.github.io/test-automation-workshops
+- ng test
